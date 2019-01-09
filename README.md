@@ -45,6 +45,7 @@ for i=1:length(xxB)
      end
  end
 end%end input*************
+
 The model description are inputs for the program, we can obtain the electric response of 
 x-directed unit electric dipole by arbitrary Tx-Rx geometries by modifying the transmitter 
 and receiver positions. Meanwhile, we can obtain the response on a large number of 1D models
